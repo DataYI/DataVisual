@@ -1,2 +1,2 @@
-# DataVisual
-数据可视化项目
+# FlaskEcharts
+charts with flask and echarts.js
